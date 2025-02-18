@@ -1,0 +1,16 @@
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.LoginFrm.resources
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.Properties.Resources.resources
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.csproj.GenerateResource.cache
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\ContactManagementApp.exe.config
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\ContactManagementApp.exe
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\ContactManagementApp.pdb
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\EntityFramework.dll
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\EntityFramework.xml
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.csproj.CopyComplete
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.exe
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.pdb
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.MainForm.resources
+C:\Users\hangd\source\repos\ContactManagementApp\ContactManagementApp\obj\Debug\ContactManagementApp.AddNewContractForm.resources
